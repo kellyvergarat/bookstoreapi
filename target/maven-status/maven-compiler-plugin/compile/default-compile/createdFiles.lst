@@ -1,0 +1,11 @@
+com\bookstore\bookstoreapi\service\BookServiceImpl.class
+com\bookstore\bookstoreapi\service\BookService.class
+com\bookstore\bookstoreapi\repository\CustomerRepository.class
+com\bookstore\bookstoreapi\repository\BookRepository.class
+com\bookstore\bookstoreapi\BookstoreapiApplication.class
+com\bookstore\bookstoreapi\entity\Customer.class
+com\bookstore\bookstoreapi\Controller\BookController.class
+com\bookstore\bookstoreapi\Controller\CustomerController.class
+com\bookstore\bookstoreapi\entity\Book.class
+com\bookstore\bookstoreapi\service\CustomerServiceImpl.class
+com\bookstore\bookstoreapi\service\CustomerService.class
